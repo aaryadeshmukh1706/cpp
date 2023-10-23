@@ -1,0 +1,5 @@
+Inheritance of Class
+1. SIngle Inheritance
+2. Multiple Inheritance
+3. Multiple Level Inheritance
+4. Multiple Path Inheritance
